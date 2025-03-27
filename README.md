@@ -1,16 +1,21 @@
 # Chocolate-Sales-Analysis-Dashboard-
 
 ### Project Overview
-Developed a comprehensive sales analytics dashboard in Power BI using a star schema with multiple tables and
+•Developed a comprehensive sales analytics dashboard in Power BI using a star schema with multiple tables and
 optimized data modelling for analyzing chocolate sales, costs, and profits.
+
 • Implemented DAX measures for advanced time intelligence calculations (MoM/YoY changes) and leveraged KPI
 cards, dynamic trend charts, and conditional formatting for insightful data visualization.
+
 • Enhanced shipment analysis through grouping, histogram charts, and zoom slider functionality, ensuring
 efficient data exploration and trend identification.
+
 • Incorporated bookmarks, slicer panels, drill-through filters, and page navigation to enhance interactivity and
 improve the end-user experience.
+
 • Designed a dedicated measure table to streamline calculations and configured tooltips, reference labels, and alert
 icons to provide contextual insights.
+
 • Utilized Power Query transformations, calculated columns, and measure branching, published the dashboard to
 Power BI Service, and created a GitHub portfolio page to demonstrate project outcomes effectively.
 
