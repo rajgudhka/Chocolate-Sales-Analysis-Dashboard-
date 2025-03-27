@@ -14,6 +14,12 @@ icons to provide contextual insights.
 • Utilized Power Query transformations, calculated columns, and measure branching, published the dashboard to
 Power BI Service, and created a GitHub portfolio page to demonstrate project outcomes effectively.
 
+![image](https://github.com/user-attachments/assets/c8cde364-cd64-4b90-8c89-a89f129d599a)
+
+![image](https://github.com/user-attachments/assets/1478ab45-7ee7-42f1-bf84-c48258d565b5)
+
+
+
 ### Dashboard Live Link:-
 https://app.powerbi.com/view?r=eyJrIjoiNzVjMmRhMjUtMDQzZC00OTg2LThkZmQtZWUzODYyN2ZkNzM0IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
